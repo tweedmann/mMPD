@@ -29,8 +29,8 @@ The `mMPD` is provided in YAML format and can be applied via the
     library(quanteda)
     library(tidyverse)
 
-    # Set working directory to the downloaded folder called "mMPD"
-    setwd("./mMPD")
+    # Set working directory to the downloaded folder called "mMPD-main"
+    setwd("./mMPD-main")
 
     # Load Dictionary Files
 
