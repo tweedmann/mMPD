@@ -16,6 +16,9 @@ the creation and performance of the dictionary. The dictionary files are
 free to use for academic research. **In case you use one or multiple of
 the dictionary files, please always cite the article above.**
 
+Languages included in the mMPD are: **Danish, Dutch, English, German,
+Spanish, and Swedish.**
+
 In order to obtain all necessary files, start by downloading this repo.
 The folder contains all dictionary files and a R-script to apply the
 dictionary files. Code is shown below.
