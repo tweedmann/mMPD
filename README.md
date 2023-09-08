@@ -1,4 +1,4 @@
-# mMPD
+# Multilingual Moral Political Dictionary (mMPD)
 
 Kristina Bakkær Simonsen & Tobias Widmann 2023
 
